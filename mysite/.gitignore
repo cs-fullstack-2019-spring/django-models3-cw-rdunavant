@@ -1,0 +1,2 @@
+book db.sqlite3 manage.py mysite .iml
+.idea
